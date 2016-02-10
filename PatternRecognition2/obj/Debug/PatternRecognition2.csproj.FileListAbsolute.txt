@@ -1,0 +1,14 @@
+c:\users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\PatternRecognition2.exe.config
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\PatternRecognition2.exe
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\PatternRecognition2.pdb
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\MathNet.Numerics.dll
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\MathNet.Numerics.xml
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.csprojResolveAssemblyReference.cache
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.Properties.Resources.resources
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.csproj.GenerateResource.Cache
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.exe
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.pdb
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\alglibnet2.dll
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\Bluebit.MatrixLibrary.dll
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\Bluebit.MatrixLibrary.xml
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.Diagonaliation.resources

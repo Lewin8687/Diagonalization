@@ -16,7 +16,7 @@ namespace PatternRecognition2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Diagonaliation());
+            Application.Run(new Assign2());
         }
     }
 }

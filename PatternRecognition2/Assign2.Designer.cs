@@ -1,6 +1,6 @@
 ﻿namespace PatternRecognition2
 {
-    partial class Diagonaliation
+    partial class Assign2
     {
         /// <summary>
         /// Required designer variable.

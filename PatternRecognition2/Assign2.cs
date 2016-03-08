@@ -12,13 +12,13 @@ using Bluebit.MatrixLibrary;
 
 namespace PatternRecognition2
 {
-    public partial class Diagonaliation : Form
+    public partial class Assign2 : Form
     {
         private double[] means1;
         private double[] means2;
         private double[,] matrix1;
         private double[,] matrix2;
-        public Diagonaliation()
+        public Assign2()
         {
             InitializeComponent();
         }
@@ -156,20 +156,21 @@ namespace PatternRecognition2
                 vector2 = Matrix.Multiply(m, Matrix.Multiply(diagonal, vector2));
                 // x1-x2 after
                 g = pn_12after.CreateGraphics();
-                point = new Point((int)(vector1[0] * 15 + 110), (int)(vector1[1] * 15 + 110));
+                int scalar = 10;
+                point = new Point((int)(vector1[0] * scalar + 110), (int)(vector1[1] * scalar + 130));
                 circle = new Rectangle(point, s);
                 g.DrawRectangle(penBlue, circle);
-                
-                point = new Point((int)(vector2[0] * 15 + 110), (int)(vector2[1] * 15 + 110));
+
+                point = new Point((int)(vector2[0] * scalar + 110), (int)(vector2[1] * scalar + 130));
                 circle = new Rectangle(point, s);
                 g.DrawRectangle(penRed, circle);
                 // x1-x3 after
                 g = pn_13after.CreateGraphics();
-                point = new Point((int)(vector1[0] * 15 + 110), (int)(vector1[2] * 15 + 110));
+                point = new Point((int)(vector1[0] * scalar + 110), (int)(vector1[2] * scalar + 130));
                 circle = new Rectangle(point, s);
                 g.DrawRectangle(penBlue, circle);
 
-                point = new Point((int)(vector2[0] * 15 + 110), (int)(vector2[2] * 15 + 110));
+                point = new Point((int)(vector2[0] * scalar + 110), (int)(vector2[2] * scalar + 130));
                 circle = new Rectangle(point, s);
                 g.DrawRectangle(penRed, circle);
             }

@@ -8,8 +8,8 @@ C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRe
 C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.csproj.GenerateResource.Cache
 C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.exe
 C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.pdb
-C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\alglibnet2.dll
 C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\Bluebit.MatrixLibrary.dll
 C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\bin\Debug\Bluebit.MatrixLibrary.xml
 C:\Users\ldy\Documents\Visual Studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.Assign3.resources
 C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.Assign2.resources
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.Assign4.resources

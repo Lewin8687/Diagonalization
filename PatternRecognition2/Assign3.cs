@@ -329,7 +329,7 @@ namespace PatternRecognition2
         {
             var g = p.CreateGraphics();
             var pen = new Pen(c);
-            var point = new Point((int)(x * 6 + 150), (int)(y * 6 + 150));
+            var point = new Point((int)(x * 7 + 150), (int)(y * 7 + 150));
             var s = new System.Drawing.Size(2, 2);
             var circle = new Rectangle(point, s);
             g.DrawRectangle(pen, circle);

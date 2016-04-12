@@ -270,7 +270,7 @@ namespace PatternRecognition2
             var A = matrix2.Inverse() - matrix1.Inverse();
             var B = 2 * (matrix_means1.Transpose() * matrix1.Inverse()) - matrix_means2.Transpose() * matrix2.Inverse();
             var C = (matrix_means2.Transpose() * matrix2.Inverse() * matrix_means2).Determinant() - (matrix_means1.Transpose() * matrix1.Inverse() * matrix_means1).Determinant() - 2 * (Math.Log10(matrix1.Determinant() / matrix2.Determinant()));
-            var result = (matrix_vector.Transpose() * A * matrix_vector).Determinant() + B[0, 0] * matrix_vector[0 ,0] + B[0, 2] * matrix_vector[2, 0] + B[0, 2] * matrix_vector[2, 0] + C;
+            var result = (matrix_vector.Transpose() * A * matrix_vector).Determinant() + B[0, 0] * matrix_vector[0 ,0] + B[0, 1] * matrix_vector[1, 0] + B[0, 2] * matrix_vector[2, 0] + C;
             if (result > 0)
             {
                 return 1;

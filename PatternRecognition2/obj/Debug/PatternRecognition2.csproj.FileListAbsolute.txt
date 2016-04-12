@@ -13,3 +13,4 @@ C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRe
 C:\Users\ldy\Documents\Visual Studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.Assign3.resources
 C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.Assign2.resources
 C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.Assign4.resources
+C:\Users\ldy\documents\visual studio 2013\Projects\PatternRecognition2\PatternRecognition2\obj\Debug\PatternRecognition2.project.resources
